@@ -11,4 +11,4 @@ Computer Science Student @ ELTE | Software Developer & Game Dev Enthusiast
 - **[Noé Bárkája - Transport Tycoon](link-a-repóra):** A complex desktop simulation developed in a team of three using Java, Maven, and JUnit 5.
 - **[Unity Mobile Portfolio](./ScreenShots):** A collection of my past indie game development projects (120k+ cumulative downloads).
 
-📬 How to reach me: www.linkedin.com/in/majer-balázs-29ab7040b
+📬 How to reach me: [LinkedIn](www.linkedin.com/in/majer-balázs-29ab7040b)
