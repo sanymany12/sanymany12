@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Balázs 👋
 
-<!--
-**sanymany12/sanymany12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student @ ELTE | Software Developer & Game Dev Enthusiast
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Java, C++, C#
+- **Graphics & Games:** OpenGL, Unity
+- **Tools & Workflows:** Git, Maven, JUnit, GitLab CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- **[Noé Bárkája - Transport Tycoon](link-a-repóra):** A complex desktop simulation developed in a team of three using Java, Maven, and JUnit 5.
+- **[Unity Mobile Portfolio](link-a-repóra):** A collection of my past indie game development projects (120k+ cumulative downloads).
+
+📬 How to reach me: www.linkedin.com/in/majer-balázs-29ab7040b
