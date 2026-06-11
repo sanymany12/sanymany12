@@ -13,4 +13,4 @@ Computer Science Student @ ELTE | Software Developer & Game Dev Enthusiast
 - **[3D robot simulation](https://github.com/sanymany12/cpp-opengl-raycasting-robot):** An interactive 3D robot simulation built in C++ and modern OpenGL,
 - **[API workflow](https://github.com/sanymany12/api-workflow-and-validation):** A FastAPI-based REST API showcasing robust Pydantic data validation, structured exception handling, and local JSON persistence.,
 
-📬 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majer-balázs)
+📬 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majer-balázs)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:majerbalazs05@gmail.com)
